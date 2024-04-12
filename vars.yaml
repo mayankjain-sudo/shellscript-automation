@@ -1,0 +1,14 @@
+dev:
+  env: dev
+  app: learning
+  branch: dev
+  
+uat:
+  env: uat
+  app: learning
+  branch: uat
+
+main:
+  env: prod
+  app: learning
+  branch: main
